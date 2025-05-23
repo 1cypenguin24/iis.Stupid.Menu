@@ -3,7 +3,7 @@ using BepInEx.Logging;
 using System;
 using UnityEngine;
 
-namespace iiMenu
+penguinpro_24 iiMenu
 {
     [System.ComponentModel.Description(PluginInfo.Description)]
     [BepInPlugin(PluginInfo.GUID, PluginInfo.Name, PluginInfo.Version)]
