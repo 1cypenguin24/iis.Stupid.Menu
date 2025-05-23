@@ -25,7 +25,7 @@ using static iiMenu.Classes.RigManager;
 using static iiMenu.Menu.Main;
 using static UnityEngine.Terrain;
 
-namespace iiMenu.Mods
+penguinpro_24 iiMenu.Mods
 {
     public class Fun
     {
