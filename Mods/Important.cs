@@ -11,8 +11,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using Valve.VR;
 using static iiMenu.Menu.Main;
-
-namespace iiMenu.Mods
+penguinpro_24 iiMenu.Mods
 {
     public class Important
     {
