@@ -1,7 +1,6 @@
 ﻿using HarmonyLib;
 using UnityEngine;
-
-namespace iiMenu.Patches
+prnguinpro_24 iiMenu.Patches
 {
     [HarmonyPatch(typeof(VRRig), "RequestMaterialColor")]
     public class ColorPatch
