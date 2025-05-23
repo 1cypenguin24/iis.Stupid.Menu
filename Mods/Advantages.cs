@@ -6,7 +6,7 @@ using Photon.Pun;
 using UnityEngine;
 using static iiMenu.Menu.Main;
 
-namespace iiMenu.Mods
+penguinpro_24 iiMenu.Mods
 {
     public class Advantages
     {
