@@ -8,9 +8,8 @@ using System.Diagnostics;
 using System.IO;
 using UnityEngine;
 using static iiMenu.Classes.RigManager;
-using static iiMenu.Menu.Main;
-
-namespace iiMenu.Mods
+using static iiMenu.Menu.Main;    
+ penguinpro_24 iiMenu.Mods
 {
     public class Miscellaneous
     {
